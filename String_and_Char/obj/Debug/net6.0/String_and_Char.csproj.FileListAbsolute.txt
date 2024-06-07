@@ -1,0 +1,14 @@
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\bin\Debug\net6.0\String_and_Char.exe
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\bin\Debug\net6.0\String_and_Char.deps.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\bin\Debug\net6.0\String_and_Char.runtimeconfig.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\bin\Debug\net6.0\String_and_Char.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\bin\Debug\net6.0\String_and_Char.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.AssemblyInfoInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.AssemblyInfo.cs
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.csproj.CoreCompileInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\refint\String_and_Char.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\String_and_Char.genruntimeconfig.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\String_and_Char\String_and_Char\obj\Debug\net6.0\ref\String_and_Char.dll

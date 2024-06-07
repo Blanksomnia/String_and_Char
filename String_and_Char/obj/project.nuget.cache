@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxbYzbeLKZhB4u1SPupAcOngbg1oaMgC3GtSe58SHhy4N1l+Ls2Rg+kRQKcXX7eh2ls5Vpo3s4518AClP0Zh2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sedus\\OneDrive\\Рабочий стол\\домашка\\String_and_Char\\String_and_Char\\String_and_Char.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
